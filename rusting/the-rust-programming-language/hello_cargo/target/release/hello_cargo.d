@@ -1,0 +1,1 @@
+/home/pedro/Github/studies-core/rusting/the-rust-programming-language/hello_cargo/target/release/hello_cargo: /home/pedro/Github/studies-core/rusting/the-rust-programming-language/hello_cargo/src/main.rs
